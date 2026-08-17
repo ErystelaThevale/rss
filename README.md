@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![RSS Relay Explorer screenshot](rss_sumb.png)
+
 Pulls the newest posts from Hacker News, Reddit, and Lemmy into a single sortable table, with optional machine translation of titles. A single-process [Streamlit](https://streamlit.io/) app — runs locally, no cloud service, no account of any kind required to fetch content.
 
 ## Project scope
